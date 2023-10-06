@@ -1,2 +1,11 @@
 server:
-  port
+  port: 8761
+
+spring:
+  application:
+    name: livegoods-registry
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
