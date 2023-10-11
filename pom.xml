@@ -11,6 +11,9 @@
     <modules>
         <module>livegoodsregistry</module>
         <module>livegoodsgateway</module>
+        <module>bannerappclient</module>
+        <module>bannerappservice</module>
+        <module>bannerappservice</module>
     </modules>
 
     <dependencyManagement>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bannerappservice/bannerappservice.iml" filepath="$PROJECT_DIR$/bannerappservice/bannerappservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bannerascommons/bannerascommons.iml" filepath="$PROJECT_DIR$/bannerascommons/bannerascommons.iml" />
+    </modules>
+  </component>
+</project>

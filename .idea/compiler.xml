@@ -7,8 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="livegoodsgateway" />
+        <module name="bannerappservice" />
+        <module name="bannerappclient" />
         <module name="livegoodsregistry" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bannerappservice" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
