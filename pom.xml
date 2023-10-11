@@ -13,7 +13,9 @@
         <module>livegoodsgateway</module>
         <module>bannerappclient</module>
         <module>bannerappservice</module>
-        <module>bannerappservice</module>
+        <module>bannerscommons</module>
+        <module>bannerserviceapi</module>
+        <module>livegoodsdao</module>
     </modules>
 
     <dependencyManagement>
